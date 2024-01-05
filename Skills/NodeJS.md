@@ -6,13 +6,13 @@
   - Nonblocking I/O and slocking code:👂 heard
   - Event loop: phases:🎓 known
   - Event loop: microtasks and macrotasks:🎓 known
-  - Garbage collection:👂 heard
+  - Garbage collection:🎓 known
   - Node.js LTS schedule:👂 heard
   - I/O-bound, CPU-bound, memory-bound tasks:👂 heard
   - Interactive applications (close to real-time):👂 heard
 - Modularity, layers and dependencies
-  - CommonJS modules:👂 heard
-  - ECMAScript modules:👂 heard
+  - CommonJS modules:🎓 known
+  - ECMAScript modules:🎓 known
   - node:module:🎓 known
   - Caching in CJS and ESM:👂 heard
   - Modules as singletons:👂 heard
@@ -22,15 +22,15 @@
   - Module-based permissions model:👂 heard
   - Isolation with modularity:👂 heard
   - Dependency injection:👂 heard
-  - DI containers:👂 heard
+  - DI containers:🎓 known
   - Coupling and cohesion:👂 heard
   - Framework agnostic approach:👂 heard
 - Environment
-  - Command line arguments:👂 heard
-  - Node.js CLI:👂 heard
+  - Command line arguments:🎓 known
+  - Node.js CLI:🎓 known
   - Process-based permissions:👂 heard
-  - Graceful shutdown:👂 heard
-  - Clustering:👂 heard
+  - Graceful shutdown:🎓 known
+  - Clustering:🎓 known
   - Watch filesystem changes with --watch:👂 heard
 - Internal API
   - Streams API:🎓 known
@@ -43,20 +43,20 @@
   - Worker threads:🎓 known
   - Performance hooks:👂 heard
   - Native fetch and nodejs/undici:👂 heard
-  - node:async_hooks:👂 heard
+  - node:async_hooks:🎓 known
   - AsyncLocalStorage:👂 heard
-  - AsyncResource:👂 heard
+  - AsyncResource:🎓 known
   - Deprecated domain API:👂 heard
   - Node.js single executable:🎓 known
   - Stream back pressure:👂 heard
   - SharedArrayBuffer:👂 heard
-  - node:worker_threads:👂 heard
-  - node:child_process:👂 heard
+  - node:worker_threads:🎓 known
+  - node:child_process:🎓 known
   - MessageChannel, MessagePort:👂 heard
   - BroadcastChannel:👂 heard
   - Generating crypto random UUID:👂 heard
   - node:url vs new URL:👂 heard
-  - node:assert:👂 heard
+  - node:assert:🎓 known
   - Internationalization:👂 heard
   - Blob, File, Buffer, node:buffer:👂 heard
   - Module node:zlib:👂 heard
@@ -66,8 +66,8 @@
   - Separation of concerns:👂 heard
   - Inversion of control:👂 heard
   - Dependency injection:👂 heard
-  - GRASP:👂 heard
-  - SOLID:👂 heard
+  - GRASP:🎓 known
+  - SOLID:🎓 known
   - GoF patterns:👂 heard
   - Distributed systems:👂 heard
   - Highload applications:👂 heard
@@ -76,7 +76,7 @@
   - Message Queue:🎓 known
   - CQS:👂 heard
   - CQRS:👂 heard
-  - Event sourcing:👂 heard
+  - Event sourcing:🎓 known
   - Load balancing:👂 heard
   - Serverless clouds:👂 heard
   - FaaS clouds:👂 heard
@@ -90,24 +90,24 @@
   - TCP/SSL:🎓 known
   - UDP:🎓 known
   - TLS:👂 heard
-  - Websocket:👂 heard
+  - Websocket:🎓 known
   - SSE:👂 heard
-  - HTTP/3 (QUIC):👂 heard
+  - HTTP/3 (QUIC):🎓 known
   - Long polling:👂 heard
   - REST:👂 heard
   - RPC:👂 heard
   - Routing:👂 heard
-  - DoS:👂 heard
+  - DoS:🎓 known
   - DDoS:👂 heard
   - XSS:👂 heard
   - Path traversal:👂 heard
   - CSRF:👂 heard
-  - DNS:👂 heard
+  - DNS:🎓 known
   - Fetch API:👂 heard
   - IncomingMessage:👂 heard
   - SQL injection:👂 heard
-  - noDelay:👂 heard
-  - keep-alive:👂 heard
+  - noDelay:🎓 known
+  - keep-alive:🎓 known
   - ALPN:👂 heard
   - SNI callback:👂 heard
   - SSL certificates:👂 heard
@@ -118,15 +118,15 @@
   - Application configuring:🎓 known
   - Testing:👂 heard
   - CI/CD:👂 heard
-  - Readable:👂 heard
-  - Writable:👂 heard
-  - Transform:👂 heard
+  - Readable:🎓 known
+  - Writable:🎓 known
+  - Transform:🎓 known
   - back pressure:👂 heard
   - Buffer:👂 heard
   - Console:🎓 known
-  - Inspector:👂 heard
+  - Inspector:🎓 known
   - Reliability:👂 heard
-  - Quality:👂 heard
+  - Quality:🎓 known
   - Availability:👂 heard
   - Flexibility:👂 heard
 - Data access
@@ -141,7 +141,7 @@
   - error.code:👂 heard
   - error.message:👂 heard
   - error.stack:👂 heard
-  - How to avoid mixins:👂 heard
+  - How to avoid mixins:🎓 known
   - Error.captureStackTrace:👂 heard
   - Uncaught exceptions:👂 heard
   - Heap dump:🎓 known
@@ -149,7 +149,7 @@
   - Flame graph:👂 heard
   - Memory leaks:🎓 known
   - Resource leaks:👂 heard
-  - Data race:👂 heard
+  - Data race:🎓 known
 - Integrations and bindings
   - Native addons:🎓 known
   - C and C++ addons:👂 heard
@@ -166,5 +166,5 @@
   - Webassembly Zig:👂 heard
   - Webassembly AssemblyScript:👂 heard
   - Shared memory:👂 heard
-  - SharedArrayBuffer:👂 heard
-  - V8 binary serialization:👂 heard
+  - SharedArrayBuffer:🎓 known
+  - V8 binary serialization:🎓 known

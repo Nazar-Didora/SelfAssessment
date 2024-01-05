@@ -1,16 +1,16 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming:👂 heard
-  - Imperative programming:👂 heard
+  - Procedural programming:🎓 known
+  - Imperative programming:🎓 known
   - Structured programming:🎓 known
   - Non-structured programming:👂 heard
   - Functional programming:🎓 known
   - Prototype-based programming:👂 heard
   - Object-oriented programming:🎓 known
   - Object-based programming:👂 heard
-  - Generic programming:👂 heard
-  - Concurrent computing:👂 heard
+  - Generic programming:🎓 known
+  - Concurrent computing:🎓 known
   - Asyncronous programming:🎓 known
   - Parallel programming:🎓 known
   - Reactive programming:👂 heard
@@ -18,14 +18,14 @@
   - Automata-based programming:👂 heard
   - Domain-specific languages:👂 heard
   - Multi-paradigm programming:🎓 known
-  - Metaprogramming:👂 heard
-  - Actor model:👂 heard
+  - Metaprogramming:🎓 known
+  - Actor model:🎓 known
 - OOP basics
   - constructor:
   - new:🖐️ used
   - Static method:🖐️ used
   - Method:🖐️ used
-  - Async method:👂 heard
+  - Async method:🎓 known
   - Getters, Setters:🖐️ used
   - Public fields:🖐️ used
   - Private fields:🖐️ used
@@ -39,8 +39,8 @@
   - Hidden class:🖐️ used
   - Object form:🖐️ used
   - instance:🖐️ used
-  - Introspection:👂 heard
-  - Reflection:👂 heard
+  - Introspection:🎓 known
+  - Reflection:🎓 known
 - Patterns
   - Singleton:🖐️ used
   - Factory Method:👂 heard
@@ -49,18 +49,18 @@
   - Observer:👂 heard
   - Strategy:👂 heard
   - Facade:🎓 known
-  - Proxy:👂 heard
+  - Proxy:🎓 known
   - Chain of Responsibility:👂 heard
   - Command:🎓 known
   - Iterator:👂 heard
-  - State:👂 heard
+  - State:🎓 known
   - Bridge:🎓 known
   - Builder:🎓 known
-  - Prototype:👂 heard
+  - Prototype:🎓 known
   - Composite:👂 heard
   - Decorator:🎓 known
   - Flyweight:👂 heard
   - Mediator:🎓 known
   - Memento:👂 heard
   - Template Method:👂 heard
-  - Visitor:👂 heard
+  - Visitor:🎓 known

@@ -8,17 +8,17 @@
   - Thread pool:👂 heard
   - Pattern Reactor:👂 heard
   - CAS operations:👂 heard
-  - epoll:👂 heard
-  - kqueue:👂 heard
-  - Completion ports:👂 heard
-  - Event ports:👂 heard
+  - epoll:🖐️ used
+  - kqueue:🖐️ used
+  - Completion ports:🖐️ used
+  - Event ports:🖐️ used
   - libuv:👂 heard
   - Race conditions:👂 heard
   - Dead locks:👂 heard
   - Live locks:👂 heard
   - Concurrent programming:
   - Parallel programming:
-  - Actor Model:👂 heard
+  - Actor Model:🎓 known
   - Thread:👂 heard
   - Process:👂 heard
 - Async contracts
@@ -29,46 +29,46 @@
   - Async/await:🎓 known
   - Future:👂 heard
   - Deferred:👂 heard
-  - Sync generator:👂 heard
-  - Async Generator:👂 heard
-  - Async Iterator:👂 heard
+  - Sync generator:🖐️ used
+  - Async Generator:🖐️ used
+  - Async Iterator:🖐️ used
   - Event:🎓 known
   - Coroutine:👂 heard
   - Goroutine:👂 heard
-  - Signal:👂 heard
-  - Stream:👂 heard
+  - Signal:🎓 known
+  - Stream:🎓 known
   - Chain of responsibility:👂 heard
   - Middleware:👂 heard
   - Locks:👂 heard
-- Async adapters and utils
+  - Async adapters and utils:
   - callbackify:👂 heard
   - promisify:👂 heard
   - asyncify:👂 heard
-  - callbacks compose:👂 heard
-  - async compose:👂 heard
+  - callbacks compose:🎓 known
+  - async compose:🎓 known
 - Async abstractions interfaces
   - EventEmitter:👂 heard
   - Observable/Observer:👂 heard
-  - Readable:👂 heard
-  - Writable:👂 heard
-  - Transform:👂 heard
+  - Readable:🎓 known
+  - Writable:🎓 known
+  - Transform:🎓 known
   - Async Pool:👂 heard
-  - Async Queue:👂 heard
-  - Async Collector:👂 heard
+  - Async Queue:🎓 known
+  - Async Collector:🎓 known
   - Semaphore:👂 heard
   - Mutex:👂 heard
   - Spin Lock:👂 heard
 - JavaScript & Node.js specific
   - Timers:🎓 known
   - setImmediate:👂 heard
-  - nextTick:👂 heard
-  - AbortController:👂 heard
-  - AbortSignal:👂 heard
+  - nextTick:🎓 known
+  - AbortController:🎓 known
+  - AbortSignal:🎓 known
   - Promise unhandled rejection:👂 heard
   - Promise double resolve:👂 heard
-  - child_process:👂 heard
+  - child_process:🎓 known
   - worker_threads:👂 heard
-  - Atomics:👂 heard
+  - Atomics:🎓 known
   - High resolution clock:👂 heard
   - Callback hell:👂 heard
   - Promise hell:👂 heard
@@ -76,20 +76,20 @@
   - Error handling in async code:👂 heard
   - Better stack traces with return await:
   - JSON: streaming serialization:👂 heard
-  - promisify:👂 heard
+  - promisify:🎓 known
   - callbackify:👂 heard
   - AsyncLocalStorage:👂 heard
   - AsyncResource:👂 heard
 - Techniques
-  - async.js library:👂 heard
+  - async.js library:🖐️ used
   - RxJS library:👂 heard
   - Async composition:👂 heard
-  - Promise.all:👂 heard
-  - Promise.allSettled:👂 heard
-  - Promise.race:👂 heard
-  - Promise.any:👂 heard
+  - Promise.all:🎓 known
+  - Promise.allSettled:🎓 known
+  - Promise.race:🎓 known
+  - Promise.any:🎓 known
   - Web Locks API:👂 heard
-  - IPC:👂 heard
+  - IPC:🎓 known
   - Channel API:👂 heard
   - Revealing Constructor:👂 heard
-  - Web Locks API:👂 heard
+  - Web Locks API:🖐️ used
