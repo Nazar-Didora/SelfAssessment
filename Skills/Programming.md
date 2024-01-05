@@ -13,7 +13,7 @@
   - procedure:🖐️ used
   - method:🖐️ used
   - class:🖐️ used
-  - prototype:👂 heard
+  - prototype:🎓 known
   - event:🖐️ used
   - type:🖐️ used
   - primitive types:🖐️ used
@@ -25,8 +25,8 @@
   - loops:🖐️ used
   - assignment:🖐️ used
   - regular expression:🖐️ used
-  - interface:👂 heard
-  - contract:👂 heard
+  - interface:🎓 known
+  - contract:🎓 known
   - module:🖐️ used
   - call stack:🖐️ used
 - Functions
@@ -36,7 +36,7 @@
   - pure function:🖐️ used
   - lambda expression:🖐️ used
   - side effects:🖐️ used
-  - closure:👂 heard
+  - closure:🎓 known
   - partial application:🎓 known
   - curry:🎓 known
   - higher order:🖐️ used
@@ -45,13 +45,13 @@
   - listener:🖐️ used
   - compose:🖐️ used
   - pipe:🎓 known
-  - memoize:👂 heard
-  - wrapper:👂 heard
+  - memoize:🎓 known
+  - wrapper:🎓 known
   - functor:🎓 known
   - monad:👂 heard
   - monoid:👂 heard
   - generator:🎓 known
-  - coroutine:👂 heard
+  - coroutine:🎓 known
 - Data structures
   - array:🖐️ used
   - structure:🖐️ used
@@ -73,8 +73,8 @@
   - tree:🖐️ used
   - graph:🖐️ used
   - iterator:🖐️ used
-  - mutable state:👂 heard
-  - immutable state:👂 heard
+  - mutable state:🎓 known
+  - immutable state:🎓 known
   - serialization:👂 heard
   - string parsing:🎓 known
 - Process & style
@@ -93,8 +93,8 @@
   - hardcode:🎓 known
   - complexity:🎓 known
   - decomposition:🎓 known
-  - spaghetti:👂 heard
-  - silver bullet:👂 heard
+  - spaghetti:🎓 known
+  - silver bullet:🎓 known
   - not invented here:
   - dead code:🎓 known
   - unreachable code:🎓 known

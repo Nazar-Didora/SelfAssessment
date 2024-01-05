@@ -15,8 +15,8 @@
   - destructuring:🖐️ used
   - generator:🖐️ used
   - iterator:🖐️ used
-  - async generator:👂 heard
-  - async iterator:👂 heard
+  - async generator:🖐️ used
+  - async iterator:🖐️ used
   - chaining:🎓 known
   - optional chaining:🎓 known
   - IIFE:🖐️ used
@@ -39,7 +39,7 @@
   - in:🖐️ used
   - super:👂 heard
   - Symbol:🖐️ used
-  - Reflect:👂 heard
+  - Reflect:🎓 known
 - Statements
   - if:🙋 explained
   - while:🙋 explained
@@ -67,7 +67,7 @@
   - functional object:🖐️ used
 - Data structures
   - Array:🖐️ used
-  - mixin:👂 heard
+  - mixin:🎓 known
   - extend:🖐️ used
   - typed arrays:
   - Map:🖐️ used
